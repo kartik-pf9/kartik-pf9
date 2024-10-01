@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Kartik.
+- 👀 I’m interested in Coding, Music & Fitness.
+- 🌱 I’m currently learning Kubernetes.
+- 💞️ I’m looking to collaborate on anything in the field of Software development.
+- 📫 How to reach me? tripathikartik318@gmail.com 
+- 😄 Pronouns: He/Him
